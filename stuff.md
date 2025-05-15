@@ -1,7 +1,5 @@
 ___
-layout: page
-title: "support material"
-permalink: https://sensorium.github.io/support/
+layout: single
 ___
 
 Untimely Waking
