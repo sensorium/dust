@@ -1,5 +1,7 @@
 ---
-layout: single
+layout: page
+title: dust
+description: some projects using sound and sculpture
 ---
 
 Untimely Waking
