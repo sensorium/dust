@@ -10,6 +10,14 @@ Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
 
 https://github.com/user-attachments/assets/83c3cbd2-8444-4250-9878-836e12d9453b
 
+Untimely Waking
+2025
+Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
+
+<video controls width="600">
+  <source src="https://github.com/user-attachments/assets/83c3cbd2-8444-4250-9878-836e12d9453b" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 
 A Sense of Proportion
 2023
