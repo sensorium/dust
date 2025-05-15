@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: my dusty old stuff
+title: dusty stuff
 description: support material for mechanics institute proposal
+
+domain: sensorium.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://sensorium.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /dust/      # place folder name if the site is served in a subfolder
