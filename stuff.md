@@ -3,13 +3,7 @@ title: dust
 description: some projects using sound and sculpture
 ---
 
-### Untimely Waking  
-2025  
-Halloran Contemporary Art Prize, Jervis Bay Maritime Museum  
-
 <!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1061712014?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untimely Waking, Only to Drift Off"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
-
-
 
 ***Untimely Waking***  
 2025  
@@ -28,6 +22,10 @@ Sculpture on Clyde
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/senseOfProportion3.mov" >
   Your browser does not support the video tag.
 </video>
+
+***Excellent Authority Reef***  
+
+<img src="https://github.com/sensorium/dust/blob/gh-pages/media/Excellent_Authority_Reef_(revive2019).jpg?raw=true" alt="Excellent Authority Reef">
 
 
 Panic/Hope
