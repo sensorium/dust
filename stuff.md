@@ -25,7 +25,7 @@ Halloran Contemporary Art Prize (finalist), Jervis Bay Maritime Museum
 Sculpture on Clyde  
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Untimely%20Waking%20(short).mov" >
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/senseOfProportion3.mov" >
   Your browser does not support the video tag.
 </video>
 
