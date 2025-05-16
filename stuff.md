@@ -1,4 +1,4 @@
-**Untimely Waking, only to drift off**  
+**Untimely Waking, Only to Drift Off**  
 *bells, electronics, algorithmic composition*  
 2025  
 Halloran Contemporary Art Prize (finalist), Jervis Bay Maritime Museum  
@@ -99,7 +99,7 @@ Perth Institute of Contemprary Art, during ICMC
   Your browser does not support the video tag.
 </video>
 
-A "solar windchime" that produces a fluctuating chordal wash in response to changing solar levels.
+A "solar windchime" that produces a fluctuating aural wash in response to changing sunlight.
 
 It sounds nice but the electronics inside are far from green.
 
