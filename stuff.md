@@ -48,7 +48,7 @@ ___
 
 
 **Panic/Hope**   
-**mufflers, electronics, waste management data, algorithmic composition**  
+*mufflers, electronics, waste management data, algorithmic composition** 
 2019 
 reImagine, Shoalhaven Entertainment Centre  
 
