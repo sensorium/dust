@@ -15,8 +15,8 @@ Untimely Waking
 2025
 Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
 
-<video controls width="100%">
-  <source src="https://github.com/sensorium/dust/blob/309b3afa7df1fe7931b9d47cb1c4395b3fec46f2/Untimely%20Waking%20(short).mov" type="video/mov">
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/Untimely%20Waking%20(short).mov" >
   Your browser does not support the video tag.
 </video>
 
