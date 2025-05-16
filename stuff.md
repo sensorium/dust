@@ -86,12 +86,13 @@ Sculpture on the Edge, Bermagui, NSW
   Your browser does not support the video tag.
 </video>
 
+
 ___
 
 
 **Greenwash**  
-*electronics, cardboard, paint, reactive synthesis**
-2013
+*electronics, cardboard, paint, reactive synthesis**  
+2013  
 Perth Institute of Contemprary Art, during ICMC  
 
 <video width="100%" height="100%" controls>
@@ -99,7 +100,7 @@ Perth Institute of Contemprary Art, during ICMC
   Your browser does not support the video tag.
 </video>
 
-A "solar windchime" that reacts with changing solar power levels to produce a fluctuating chordal wash.
+A "solar windchime" that produces a fluctuating chordal wash in response to changing solar levels.
 
 It sounds nice but the electronics inside are far from green.
 
