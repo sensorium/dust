@@ -77,7 +77,7 @@ ___
 
 
 **Fears of City People Living in the Country**  
-*electronics, pipe, continual audio synthesis*  
+*electronics, metal pipe, continual audio synthesis*  
 2016  
 Sculpture on the Edge, Bermagui, NSW  
 
