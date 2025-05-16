@@ -1,4 +1,4 @@
-**Untimely Waking**  
+**Untimely Waking, only to drift off**  
 *bells, electronics, algorithmic composition*  
 2025  
 Halloran Contemporary Art Prize (finalist), Jervis Bay Maritime Museum  
