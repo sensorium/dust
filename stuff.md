@@ -11,20 +11,23 @@ Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
 
 
 
-Untimely Waking
-2025
-Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
+***Untimely Waking***  
+2025  
+Halloran Contemporary Art Prize (finalist), Jervis Bay Maritime Museum  
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/Untimely%20Waking%20(short).mov" >
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Untimely%20Waking%20(short).mov" >
   Your browser does not support the video tag.
 </video>
 
-A Sense of Proportion
-2023
-Sculpture on Clyde
+***A Sense of Proportion***  
+2023  
+Sculpture on Clyde  
 
-https://github.com/user-attachments/assets/cc3de8d8-cc0f-43b6-b400-4878eed1c6e4
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Untimely%20Waking%20(short).mov" >
+  Your browser does not support the video tag.
+</video>
 
 
 Panic/Hope
