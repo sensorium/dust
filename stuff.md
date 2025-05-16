@@ -41,8 +41,7 @@ Revive, Basil Sellers Exhibition Centre, Moruya
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/Excellent_Authority_Reef_(revive2019).jpg?raw=true" alt="Excellent Authority Reef" width="100%" height="100%">
 
-Hot, angry clowns, this is no way to cool down! No Export Quality Solution!
-
+Hot, angry clowns, this is no way to cool down! No Export Quality Solution!  
 We endanger the very ecosystems of which we are part.  
 
 ___
@@ -67,9 +66,9 @@ The work is a call to wake up, acknowledge the limits of old ideas, and articula
 ___
 
 
-**Pointless Corral**
-*found ironbark "waste"*  
-2019
+**Pointless Corral**  
+*found ironbark "waste"*   
+2019  
 Sculpture for Clyde, Willinga Park, Bawley Point, NSW  
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/IMG_6568_Pointless_Corral.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
@@ -77,10 +76,10 @@ Sculpture for Clyde, Willinga Park, Bawley Point, NSW
 ___
 
 
-**Fears of City People Living in the Country**
-*electronics, pipe, continual audio synthesis*
-2016
-Sculpture on the Edge, Bermagui, NSW
+**Fears of City People Living in the Country**  
+*electronics, pipe, continual audio synthesis*  
+2016  
+Sculpture on the Edge, Bermagui, NSW  
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Fears%20of%20City%20People%20in%20the%20Country%20(shorter).mp4" >
