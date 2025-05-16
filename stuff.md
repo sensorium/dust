@@ -16,7 +16,7 @@ Untimely Waking
 Halloran Contemporary Art Prize, Jervis Bay Maritime Museum
 
 <video controls width="600">
-  <source src="https://github.com/user-attachments/assets/83c3cbd2-8444-4250-9878-836e12d9453b" type="video/mov">
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/Untimely%20Waking%20(short).mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
 
