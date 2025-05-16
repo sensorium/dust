@@ -91,7 +91,7 @@ ___
 
 
 **Greenwash**  
-*electronics, cardboard, paint, reactive synthesis**  
+*electronics, cardboard, paint, reactive synthesis*  
 2013  
 Perth Institute of Contemprary Art, during ICMC  
 
