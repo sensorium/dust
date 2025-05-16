@@ -1,8 +1,3 @@
----
-title: dust
-description: some recent projects
----
-
 **Untimely Waking**  
 *bells, electronics, algorithmic composition*  
 2025  
@@ -53,10 +48,11 @@ We endanger the very ecosystems of which we are part.
 ___
 
 
-**Panic/Hope**  
-2019  
+**Panic/Hope**   
 **mufflers, electronics, waste management data, algorithmic composition**  
-reImagine, Shoalhaven Entertainment Centre
+2019 
+reImagine, Shoalhaven Entertainment Centre  
+
 <video width="100%" height="100%" controls>
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Panic.mov" >
   Your browser does not support the video tag.
@@ -67,6 +63,29 @@ These car exhaust mufflers are being used to "ring the changes", a bell-ringing 
 The sequences regenerate and evolve by recombining waste management data for NSW from the Environmental Protection Agency.
 
 The work is a call to wake up, acknowledge the limits of old ideas, and articulate new combinations and possibilities present in our situation.  
+
+___
+
+
+**Pointless Corral**
+*found ironbark "waste"*  
+2019
+Sculpture for Clyde, Willinga Park, Bawley Point, NSW  
+
+<img src="https://github.com/sensorium/dust/blob/gh-pages/media/IMG_6568_Pointless_Corral.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
+
+___
+
+
+**Fears of City People Living in the Country**
+*electronics, pipe, continual audio synthesis*
+2016
+Sculpture on the Edge, Bermagui, NSW
+
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Fears%20of%20City%20People%20in%20the%20Country%20(shorter).mp4" >
+  Your browser does not support the video tag.
+</video>
 
 ___
 

@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: dusty stuff
-description: support material for mechanics institute proposal
+title: support material
+description: mechanics institute proposal for 2026
 
 domain: sensorium.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://sensorium.github.io  # the base hostname and protocol for your site, e.g. http://example.com
