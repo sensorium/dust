@@ -37,7 +37,7 @@ ___
 **Excellent Authority Reef**  
 *240V double adapters*  
 2019  
-Revive, Basil Sellers Exhibition Centre, Moruya  
+Revive, Basil Sellers Exhibition Centre, Moruya, NSW  
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/Excellent_Authority_Reef_(revive2019).jpg?raw=true" alt="Excellent Authority Reef" width="100%" height="100%">
 Hot, angry clowns, this is no way to cool down! No Export Quality Solution!  
@@ -49,7 +49,7 @@ ___
 **Panic/Hope**   
 *mufflers, electronics, waste management data, algorithmic composition*  
 2019 
-reImagine, Shoalhaven Entertainment Centre  
+reImagine, Shoalhaven Entertainment Centre, Nowra, NSW  
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Panic.mov" >
@@ -66,7 +66,7 @@ ___
 
 
 **Pointless Corral**  
-*found ironbark "waste"*   
+*stacked ironbark "waste"*   
 2019  
 Sculpture for Clyde, Willinga Park, Bawley Point, NSW  
 
@@ -90,7 +90,7 @@ ___
 
 
 **Greenwash**  
-*electronics, cardboard, paint, reactive synthesis*  
+*electronics, cardboard, paint, reactive audio synthesis*  
 2013  
 Perth Institute of Contemprary Art, during ICMC  
 
