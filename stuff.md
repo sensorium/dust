@@ -39,7 +39,7 @@ ___
 2019  
 Revive, Basil Sellers Exhibition Centre, Moruya, NSW  
 
-<img src="https://github.com/sensorium/dust/blob/gh-pages/media/Excellent_Authority_Reef_(revive2019).jpg?raw=true" alt="Excellent Authority Reef" width="100%" height="100%">
+<img src="https://github.com/sensorium/dust/blob/gh-pages/media/Excellent_Authority_Reef_(revive2019)%20small.jpeg?raw=true" alt="Excellent Authority Reef" width="100%" height="100%">
 Hot, angry clowns, this is no way to cool down! No Export Quality Solution!  
 We endanger the very ecosystems of which we are part.  
 
