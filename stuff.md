@@ -48,7 +48,7 @@ ___
 
 **Panic/Hope**   
 *mufflers, electronics, waste management data, algorithmic composition*  
-2019 
+2019  
 reImagine, Shoalhaven Entertainment Centre, Nowra, NSW  
 
 <video width="100%" height="100%" controls>
