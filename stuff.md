@@ -105,3 +105,17 @@ It sounds nice but the electronics inside are far from green.
 
 ___
 
+
+**Antbath**
+*software, VHS video*  
+1997  
+never shown  
+
+<video width="100%" height="100%" controls>
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/antbath480p.mov" >
+  Your browser does not support the video tag.
+</video>
+
+I wrote software to model a population of "ants" to leave paths as they respond to the underlying video of real ants that appeared to enjoy something in the bathtub.
+
+
