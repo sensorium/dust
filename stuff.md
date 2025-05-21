@@ -112,7 +112,7 @@ ___
 never shown  
 
 <video width="100%" height="100%" controls>
-  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/antbath480p.mov" >
+  <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/antbath_trim480p.mov" >
   Your browser does not support the video tag.
 </video>
 
