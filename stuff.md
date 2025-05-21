@@ -84,7 +84,7 @@ Sculpture on the Edge, Bermagui, NSW
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Fears%20of%20City%20People%20in%20the%20Country%20(shorter).mp4" >
   Your browser does not support the video tag.
 </video>
-
+  
 
 ___
 
@@ -101,7 +101,7 @@ Perth Institute of Contemprary Art, during ICMC
 
 A "solar windchime" that produces a fluctuating aural wash in response to changing sunlight.
 
-It sounds nice but the electronics inside are far from green.
+It sounds nice but the electronics inside are far from green.  
 
 ___
 
@@ -116,5 +116,16 @@ not exhibited
   Your browser does not support the video tag.
 </video>
 
-Emergent pathways left by software "ants" as they respond to underlying video of real ants.  This was an early part of a long period when I experimented with multiagent systems generating video and sound.
+Emergent pathways left by software "ants" as they respond to underlying video of real ants.  This was an early part of a long period when I experimented with multiagent systems generating video and sound.  
 
+___
+
+
+**Wide Load**  
+*luggage straps*  
+1995 
+Torque, Perth Institute of Contemporary Art, for ARX (Artist Regional Exchange)  
+
+<img src="" alt="Pointless Corral" width="100%" height="100%">
+
+Luggage straps stretched between balconies to reflect an idea of structure under tension during a cultural exchange residency with artists from Indonesia, Philipines and Australia.
