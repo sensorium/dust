@@ -109,13 +109,12 @@ ___
 **Antbath**
 *software, VHS video*  
 1997  
-never shown  
+not exhibited  
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/antbath_trim480p.mov" >
   Your browser does not support the video tag.
 </video>
 
-I wrote software to model a population of "ants" to leave paths as they respond to the underlying video of real ants that appeared to enjoy something in the bathtub.
-
+Emergent pathways left by software "ants" as they respond to underlying video of real ants.  This was an early part of a long period when I experimented with multiagent systems generating video and sound.
 
