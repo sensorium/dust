@@ -126,6 +126,9 @@ ___
 1995 
 Torque, Perth Institute of Contemporary Art, for ARX (Artist Regional Exchange)  
 
-<img src="" alt="Pointless Corral" width="100%" height="100%">
+<img src="https://github.com/sensorium/dust/blob/gh-pages/media/wideload.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
 
 Luggage straps stretched between balconies to reflect an idea of structure under tension during a cultural exchange residency with artists from Indonesia, Philipines and Australia.
+
+___
+
