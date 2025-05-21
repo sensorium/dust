@@ -22,7 +22,7 @@ ___
 **A Sense of Proportion**  
 *found bent pipe, stamped lettering*  
 2023  
-Sculpture on Clyde, Batemans Bay, NSW  
+Sculpture for Clyde, Batemans Bay, NSW  
 
 <video width="100%" height="100%" controls>
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/senseOfProportion3.mov" >
@@ -116,19 +116,19 @@ not exhibited
   Your browser does not support the video tag.
 </video>
 
-Emergent pathways left by software "ants" as they respond to underlying video of real ants.  This was an early part of a long period when I experimented with multiagent systems generating video and sound.  
+Emergent pathways left by software "ants" as they respond to underlying video of real ants.  
 
 ___
 
 
 **Wide Load**  
 *luggage straps*  
-1995 
-Torque, Perth Institute of Contemporary Art, for ARX (Artist Regional Exchange)  
+1995  
+Torque, Perth Institute of Contemporary Art
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/wideload.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
 
-Luggage straps stretched between balconies to reflect an idea of structure under tension during a cultural exchange residency with artists from Indonesia, Philipines and Australia.
+Structure under tension made during ARX, an Aisa-Australia cultural exchange residency.
 
 ___
 
