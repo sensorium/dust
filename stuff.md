@@ -72,7 +72,7 @@ Sculpture for Clyde, Willinga Park, Bawley Point, NSW
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/IMG_6568_Pointless_Corral.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
   
-My work has often returned to questions around the delegation of agency through designed environments, bringing participants' attention to way choices and actions may be shaped without explicit signposting.  
+My work has often returned to questions around the delegation of agency through designed environments, bringing participants' attention to ways that choices and actions may be shaped without explicit signposting.  
 
 ___
 
