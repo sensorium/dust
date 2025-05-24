@@ -71,6 +71,8 @@ ___
 Sculpture for Clyde, Willinga Park, Bawley Point, NSW  
 
 <img src="https://github.com/sensorium/dust/blob/gh-pages/media/IMG_6568_Pointless_Corral.jpg?raw=true" alt="Pointless Corral" width="100%" height="100%">
+  
+My work has often returned to questions around the delegation of agency through designed environments, bringing participants' attention to way choices and actions may be shaped without explicit signposting.  
 
 ___
 
@@ -84,8 +86,9 @@ Sculpture on the Edge, Bermagui, NSW
   <source src="https://github.com/sensorium/dust/raw/refs/heads/gh-pages/media/Fears%20of%20City%20People%20in%20the%20Country%20(shorter).mp4" >
   Your browser does not support the video tag.
 </video>
+ 
+New to rural living after years in suburbia, there were so many unfamiliar things for which we had only stories and imaginings rather than any first-hand experience.  
   
-
 ___
 
 
